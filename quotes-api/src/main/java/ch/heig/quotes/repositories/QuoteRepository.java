@@ -1,6 +1,6 @@
 package ch.heig.quotes.repositories;
 
-import ch.heig.quotes.Entities.QuoteEntity;
+import ch.heig.quotes.entities.QuoteEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

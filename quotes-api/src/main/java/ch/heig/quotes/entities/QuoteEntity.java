@@ -1,4 +1,4 @@
-package ch.heig.quotes.Entities;
+package ch.heig.quotes.entities;
 
 
 import jakarta.persistence.*;

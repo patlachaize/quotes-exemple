@@ -1,6 +1,6 @@
 package ch.heig.quotes.api.endpoints;
 
-import ch.heig.quotes.Entities.QuoteEntity;
+import ch.heig.quotes.entities.QuoteEntity;
 import ch.heig.quotes.api.QuotesApi;
 import ch.heig.quotes.api.exceptions.QuoteNotFoundException;
 import ch.heig.quotes.api.model.Quote;
