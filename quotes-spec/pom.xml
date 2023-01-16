@@ -26,9 +26,6 @@
                         <configuration>
                             <inputSpec>src/main/resources/quotes.yaml</inputSpec>
                             <generatorName>java</generatorName>
-                            <configOptions>
-                                <sourceFolder>src/gen/java/main</sourceFolder>
-                            </configOptions>
                         </configuration>
                     </execution>
                 </executions>

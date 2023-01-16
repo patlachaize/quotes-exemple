@@ -1,4 +1,4 @@
-package ch.heig.quotes;
+package ch.heig.quotes.api;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.ExitCodeGenerator;
@@ -7,7 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
-@ComponentScan(basePackages = { "ch.heig.quotes", "ch.heig.quotes.api" })
 public class Swagger2SpringBoot implements CommandLineRunner {
 
     @Override

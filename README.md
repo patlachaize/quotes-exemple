@@ -19,7 +19,7 @@ Avec OpenApi generator, génération à partir d'un fichier OpenAPI "quotes.yaml
   ### quotes-spec
   - Gérération du dossier target avec "maven clean package" (fenêtre Maven, quotes-exemple/quotes-spec/Lifecycle)
     si Springboot tourne, les tests BDD doivent s'exécuter sans erreurs au cours de l'exécution de Maven
-  - Déclaration "Generated Source Root" du dossier target/generated-sources/openapi/src/gen/java/main 
+  - Déclaration "Generated Source Root" du dossier target/generated-sources/openapi/src/main/java 
   - La Feature Cucumber du dossier src/test/resources/features/quotes.feature doit être exécutable sous IntelliJ
   
   ## Cycle de développement

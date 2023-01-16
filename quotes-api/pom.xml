@@ -86,8 +86,6 @@
                         <configuration>
                             <inputSpec>${basedir}/src/main/resources/quotes.yaml</inputSpec>
                             <generatorName>spring</generatorName>
-                            <apiPackage>ch.heig.quotes.api</apiPackage>
-                            <modelPackage>ch.heig.quotes.api.model</modelPackage>
                             <supportingFilesToGenerate>ApiUtil.java</supportingFilesToGenerate>
                             <configOptions>
                                 <interfaceOnly>true</interfaceOnly>
