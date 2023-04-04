@@ -1,4 +1,4 @@
-package ch.heig.quotes.spec;
+package ch.es.pl.quotes.spec;
 
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;

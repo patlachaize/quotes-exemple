@@ -1,4 +1,4 @@
-package ch.heig.quotes.api.services;
+package ch.es.pl.quotes.api.services;
 
 import org.springframework.stereotype.Service;
 

@@ -1,4 +1,4 @@
-package ch.heig.quotes.api.configuration;
+package ch.es.pl.quotes.api.configuration;
 
 import io.swagger.v3.oas.models.ExternalDocumentation;
 import io.swagger.v3.oas.models.OpenAPI;

@@ -1,10 +1,9 @@
-package ch.heig.quotes.api;
+package ch.es.pl.quotes.api;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.ExitCodeGenerator;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
 public class Swagger2SpringBoot implements CommandLineRunner {

@@ -1,10 +1,10 @@
-package ch.heig.quotes.api.endpoints;
+package ch.es.pl.quotes.api.endpoints;
 
 import org.openapitools.api.QuotesApi;
-import ch.heig.quotes.api.exceptions.QuoteNotFoundException;
+import ch.es.pl.quotes.api.exceptions.QuoteNotFoundException;
 import org.openapitools.model.Quote;
-import ch.heig.quotes.api.entities.QuoteEntity;
-import ch.heig.quotes.api.repositories.QuoteRepository;
+import ch.es.pl.quotes.api.entities.QuoteEntity;
+import ch.es.pl.quotes.api.repositories.QuoteRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

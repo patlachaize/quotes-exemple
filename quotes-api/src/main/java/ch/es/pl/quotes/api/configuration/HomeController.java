@@ -1,4 +1,4 @@
-package ch.heig.quotes.api.configuration;
+package ch.es.pl.quotes.api.configuration;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
